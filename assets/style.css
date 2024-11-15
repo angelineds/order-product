@@ -283,7 +283,7 @@ h1, h2 {
   cursor: pointer;
 }
 
-.submit-cartOrder:hover, #submit-orderConfirmation:hover {
+#submit-cartOrder:hover, #submit-orderConfirmation:hover {
   background-color: hsl(14, 86%, 80%);
   color: hsl(14, 86%, 30%);
 }
