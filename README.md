@@ -27,15 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-<p align="center">
-  <img src="./screenshot-1.jpeg" alt="Design preview on desktop view" width="48%" />
-  <img src="./screenshot-2.jpeg" alt="Design preview with active cart" width="48%" />
+<p>
+  <img src="./screenshot-1.jpeg" alt="Design preview on desktop view" width="49%" style="border: 1px solid gray; margin-right: 10px;"/>
+  <img src="./screenshot-2.jpeg" alt="Design preview with active cart" width="48.7%" style="border: 1px solid gray"/>
 </p>
 
-<p align="center" style="display: flex; gap: 2rem;">
-  <img src="./screenshot-3.jpeg" alt="Confirmed order on desktop view" width="69%" />
-  <img src="./screenshot-4.png" alt="Confirmed order on mobile view" width="30%" />
-</p>
+<img src="./screenshot-3.jpeg" alt="Confirmed order on desktop view" style="border: 1px solid gray;"/>
 
 ### Links
 
