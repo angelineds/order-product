@@ -310,6 +310,9 @@ h1, h2 {
   margin-bottom: 10rem;
 }
 
+#orderconfirmation__container svg {
+  background-color: white;
+
 #orderConfirmation__container h1, #orderConfirmation__container p {
   background-color: white;
   margin: 0;
